@@ -1,0 +1,50 @@
+button:not(:first-of-type) {
+  margin-left: 5px;
+}
+.btn {
+    height: 100%;
+}
+ul{
+    min-width: 350px;
+    width: 60vh;
+}
+.widthSearchFullListComp {
+     min-width: 380px;
+     width: 63vh;
+ }
+
+.bg-color {
+    color: #fff;
+    background-color: #1a9296;
+    font-weight: 600;
+    padding: 25px 38px;
+}
+
+.btnColor {
+    color: #fff;
+    background-color: #1a6b96;
+    border-color: #1a6b96;
+    //font-weight: 500;
+}
+.content {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin: 27px -5px 45px -5px;
+}
+.navbar-light .navbar-brand {
+    color: #fff;
+    font-size: 1.5em;
+    line-height: 1em;
+}
+.searchForTable {
+    margin-bottom: 5px;
+}
+.marginBottom2em{
+    margin-bottom: 2em;
+}
+.marginBottom1em{
+    margin-bottom: 1em;
+}
+

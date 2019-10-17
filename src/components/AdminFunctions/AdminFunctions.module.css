@@ -1,0 +1,26 @@
+.sidebar-panel_item {
+    background-color: #efefef;
+    border-radius: .25rem;
+    font-weight: 400;
+    padding: .375rem .75rem;
+    margin-bottom: 5px;
+}
+
+.sidebar-panel.sidebar-panel_active .sidebar-panel_item {
+    color: #efefef;
+    background-color: #1a6b96;
+}
+
+a.sidebar-panel {
+    color: #6c757d;
+    text-decoration: none;
+}
+
+a.sidebar-panel:hover {
+    color: #1a6b96;
+    text-decoration: none;
+}
+
+a.sidebar-panel.sidebar-panel_active:hover .sidebar-panel_item {
+    color: #fff;
+}

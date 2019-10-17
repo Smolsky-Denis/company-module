@@ -1,0 +1,16 @@
+.labelInputButton{
+  width: 70%;
+}
+.recommendation{
+  color: #016901;
+  font-size: 0.8em;
+}
+
+.moveCenter {
+  /*text-align: center;*/
+  padding-left: 12%;
+}
+
+.inputButton{
+  height: calc(1.5em + .75rem + 2px);
+}

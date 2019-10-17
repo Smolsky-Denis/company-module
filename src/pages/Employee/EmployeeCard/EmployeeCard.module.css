@@ -1,0 +1,6 @@
+.listGroup {
+    max-height: 20vh;
+    width: 100%;
+    overflow-y: scroll;
+    padding-bottom: 23vh;
+}
